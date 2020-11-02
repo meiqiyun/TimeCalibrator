@@ -1,0 +1,10 @@
+E:\C#\时间校正器\时间校正器\bin\Debug\时间校正器.exe.config
+E:\C#\时间校正器\时间校正器\bin\Debug\时间校正器.exe
+E:\C#\时间校正器\时间校正器\bin\Debug\时间校正器.pdb
+E:\C#\时间校正器\时间校正器\bin\Debug\Newtonsoft.Json.dll
+E:\C#\时间校正器\时间校正器\obj\Debug\时间校正器.FrmMian.resources
+E:\C#\时间校正器\时间校正器\obj\Debug\时间校正器.Properties.Resources.resources
+E:\C#\时间校正器\时间校正器\obj\Debug\时间校正器.exe
+E:\C#\时间校正器\时间校正器\obj\Debug\时间校正器.pdb
+E:\C#\时间校正器\时间校正器\obj\Debug\时间校正器.csprojResolveAssemblyReference.cache
+E:\C#\时间校正器\时间校正器\obj\Debug\时间校正器.csproj.GenerateResource.Cache
